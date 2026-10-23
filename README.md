@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`Borderlands-2-Save-Editor` · Updated: 2026-10-07
+`Borderlands-2-Save-Editor` · Updated: 2026-10-24
 
 **Tags:** `borderlands-2` `save-editor` `looter-shooter` `gearbox` `steam`
